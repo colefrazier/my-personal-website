@@ -1,0 +1,10 @@
+body {
+    background: yellow;
+  }
+
+title {
+    outline-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: smaller;
+}
+  
