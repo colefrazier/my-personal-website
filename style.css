@@ -2,7 +2,7 @@ body {
     background: yellow;
   }
 
-title {
+head.title {
     outline-color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: smaller;
